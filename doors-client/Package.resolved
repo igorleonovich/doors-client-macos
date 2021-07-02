@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DoorsCLISDK",
+        "repositoryURL": "/Users/Shared/doors/il/dev/doors/doors-cli-sdk",
+        "state": {
+          "branch": "master",
+          "revision": "d506eac6111ed170d313e8d6677caf55d65bb339",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser",
+        "state": {
+          "branch": null,
+          "revision": "986d191f94cec88f6350056da59c2e59e83d1229",
+          "version": "0.4.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
